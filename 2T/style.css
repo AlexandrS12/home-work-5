@@ -1,0 +1,25 @@
+body {
+    font-size: 13px;
+}
+
+li a {
+    text-decoration-line: none;
+    color: blue;
+}
+
+li a:hover {
+    text-decoration-line: underline;
+}
+
+div {
+    background-color: #dcdbdb;
+    width: 300px;
+    margin: left;
+    padding: 20px;
+    border: 1px solid #191ba3;
+}
+
+dt {
+    text-align: center;
+    font-weight: bold;
+}
